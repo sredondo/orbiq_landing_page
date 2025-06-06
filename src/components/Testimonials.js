@@ -5,14 +5,14 @@ const Testimonials = () => {
   const testimonials = [
     {
       quote: "Orbiq redujo nuestro tiempo de desarrollo de MVP en un 65%. Lo que antes nos tomaba meses, ahora lo logramos en semanas.",
-      author: "María Rodríguez",
-      position: "Fundadora de TechStart",
+      author: "Sebastian Redondo",
+      position: "Fundador de Orbiq",
       image: "https://randomuser.me/api/portraits/women/45.jpg"
     },
     {
-      quote: "Como product manager, Orbiq me ha permitido validar ideas y crear prototipos funcionales sin depender de equipos técnicos completos.",
-      author: "Carlos Méndez",
-      position: "Product Manager en InnovateLab",
+      quote: "Como project manager, Orbiq me ha permitido validar ideas y crear prototipos funcionales sin depender de equipos técnicos completos.",
+      author: "Federico Villegas",
+      position: "Fundador de Orbiq",
       image: "https://randomuser.me/api/portraits/men/32.jpg"
     },
     {
